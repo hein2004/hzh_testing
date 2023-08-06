@@ -1,3 +1,3 @@
-# hzh_testing
+# testing-project-one
 HZH's Github 
 About this article
